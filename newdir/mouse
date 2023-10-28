@@ -1,0 +1,8 @@
+ 
+
+ git add 
+ git commit -m "my first commit "
+ git push
+ git pull
+ git clone
+ git stash-undo uncommited changes
