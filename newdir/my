@@ -1,0 +1,5 @@
+git ndiff
+
+git status
+
+git stash -undo uncommited changes
